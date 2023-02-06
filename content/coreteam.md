@@ -4,7 +4,7 @@ date: 2023-02-05T21:07:09-06:00
 ---
 # About us
 
-The Core Team runs HackWashU; our mission is to facilitate an open, inclusive CS community at WashU. 
+The Core Team runs Hack WashU; our mission is to facilitate an open, inclusive CS community at WashU. 
 
 Our projects and activities include:
 
