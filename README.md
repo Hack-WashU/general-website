@@ -32,7 +32,7 @@ The `/content` directory has a bunch of subdirectories and a bunch of markdown f
 
 Every`name.md` in the content directory is generated as a static site at `hackwashu.com/name`
 
-Every `name.md` in a `content/subdirectory/` is generated as a static site at `hackwashu.com/subdirectory/nam`e`
+Every `name.md` in a `content/subdirectory/` is generated as a static site at `hackwashu.com/subdirectory/name`
 
 The framed welcome text is in `content/_index.md`, to remove the frame you remove the `framed=true` parameter in the frontmatter
 
