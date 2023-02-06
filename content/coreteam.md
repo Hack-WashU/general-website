@@ -22,5 +22,5 @@ Our projects and activities include:
 
 # Join us
 
-If you're interested in our mission and would like to join us, please fill out this [interest form](https://forms.gle/9mkaSjRSsUBRYeWD9).
+If you're a WashU student interested in our mission and would like to help, shoot an email to `organizer at hackwashu dot com`.
 
