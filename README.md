@@ -16,7 +16,7 @@ Make sure you're in the general-website/ directory (the same directory as the co
 
 In case you want to create content in a subdirectory, do
 
-    hugo new subdirectory.md
+    hugo new subdirectory/name.md
 
 # Structure
 Everything is handled by the /content directory and config.toml.
