@@ -5,26 +5,26 @@ The code for HackWashU's org website. Generated from the [terminal](https://gith
 # Contributing
 
 ## Structure
-Everything is handled by the /content directory and config.toml.
+Everything is handled by the `/content` directory and `config.toml`.
 
-Config.toml controls the menu bar. Each menu bar links to the url, ie hackwashu.com/url
-It also controls a bunch of other stuff, see [terminal](https://github.com/panr/hugo-theme-terminal) for more info
+`Config.toml` controls the menu bar. Each menu bar links to the url, ie `hackwashu.com/url`
+It also controls a bunch of other stuff, see [terminal](https://github.com/panr/hugo-theme-terminal) for more info.
 
-The /content directory has a bunch of subdirectories and a bunch of markdown files.
+The `/content` directory has a bunch of subdirectories and a bunch of markdown files.
 
-Every name.md in the content directory is generated as a static site at hackwashu.com/name
+Every `name.md` in the `/content` directory is generated as a static site at `hackwashu.com/name`.
 
-Every name.md in a subdirectory/ is generated as a static site at hackwashu.com/subdirectory/name
+Every `name.md` in a `content/subdirectory/` is generated as a static site at `hackwashu.com/subdirectory/name`.
 
-The framed welcome text is in _index.md, to remove the frame you remove the framed=true parameter in the frontmatter
+The framed welcome text is in `_index.md`, to remove the frame you remove the `framed = true` parameter in the frontmatter.
 
-Hugo uses the terminal theme to generate the static site files, the template is linked in config.toml 
+Hugo uses the terminal theme to generate the static site files, the template is linked in `config.toml`.
 
-Served with a github actions script in .github/workflows, served from `/public`
+Served with a github actions script in `.github/workflows`, served from `/public`
 
 ## Available scripts
 
-Make sure you're in the general-website/ directory (the same directory as the config.toml file).
+Make sure you're in the `general-website/` directory (the same directory as the `config.toml` file).
 
 ## Build and run server for testing
 
