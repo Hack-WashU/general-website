@@ -75,3 +75,4 @@ You should now have your name on the home page of your fork! Time to merge your 
 4. Click "Create pull request"
 5. Fill in any information requested by the pull request template
 6. Click "Create pull request"!
+7. Assuming you have no merge conflicts, click the big green Merge button!
