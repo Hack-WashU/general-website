@@ -11,7 +11,6 @@ Sadly, this document also must go over environment setup, which is the worst par
 
 ## Windows-Specific Instructions
 
-
 These tools work out of the box on MacOS/Linux, but require a good amount of configuration on Windows. For this reason, I'm going to assume you're using WSL, or Windows Subsystem for Linux. This is a fantastic tool, and it makes setting up standardized development environments *significantly* easier.
 
 To get set up with WSL, follow this [Installation tutorial](https://learn.microsoft.com/en-us/windows/wsl/setup/environment). If you're not familiar with Bash, run through this (very quick) [Bash tutorial](https://learn.microsoft.com/en-us/windows/wsl/tutorials/linux).
