@@ -7,9 +7,9 @@ draft: false
 
 Hey! Thanks for wanting to help out with tech. This document will outline our general workflow, and help you get set up to contribute to our projects.
 
-## Platform-Specific Differences (Windows)
+Sadly, this document also must go over environment setup, which is the worst part of any coding project! Generally, we try to make things as easy as possible through tools like [GNU Make](https://www.gnu.org/software/make/) and [Docker](https://www.docker.com/).
 
-Sadly, this document also must go over environment setup. Generally, we try to make things as easy as possible through tools like [GNU Make](https://www.gnu.org/software/make/) and [Docker](https://www.docker.com/).
+## Windows-Specific Instructions
 
 These tools work out of the box on MacOS/Linux, but require a good amount of configuration on Windows. For this reason, I'm going to assume you're using WSL, or Windows Subsystem for Linux. This is a fantastic tool, and it makes setting up standardized development environments *significantly* easier.
 
@@ -19,7 +19,7 @@ Docker is another tool tool that we're going to use to emulate both production a
 
 > Note: You don't have to necessarily upgrade Windows yet! We'll mention later in the tutorial when you need to launch a Docker container. There also should also be an option to run each project locally if you don't want to upgrade Windows or can't get a key.
 
-## MacOS
+## MacOS-Specific Instructions
 
 Nothing much here! This tutorial is going to assume you have [homebrew](https://brew.sh/) set up. If you'd like a fancier terminal, check out [iTerm2](https://iterm2.com/), or [Warp](https://www.warp.dev/) if you want to get *really* crazy.
 
