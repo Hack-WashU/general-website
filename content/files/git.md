@@ -57,6 +57,7 @@ Look through the files in the react-app directory. Follow these directions:
 2. Give your name (and only your name) some swanky custom styling. [Here's](https://www.w3schools.com/cssref/index.php) a reference.
 3. Save your changes, and verify they were hot-reloaded in your browser!
 4. In your terminal run `git add <file path edited file 1> <file path edited file 2>`. This tells git which files you want to commit/change to what you have on your local machine. 
+    - You can use `git add *` to add every file in your current working directory, except for paths specified in a [.gitignore](https://github.com/Hack-WashU/general-website/blob/main/.gitignore) file!
 5. Click the source tree button on the left bar of VSCode, type a fun message into the box, and click "Commit".
 6. Click "Sync Changes"!
 
